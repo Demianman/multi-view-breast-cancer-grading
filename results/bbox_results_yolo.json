@@ -1,0 +1,3071 @@
+{
+  "metadata": {
+    "model": "YOLOv8s fine-tuned on CBIS-DDSM",
+    "total_val_imgs": 208,
+    "mAP50": 0.393,
+    "mAP50-95": 0.176
+  },
+  "detections": [
+    {
+      "patient_id": "P_00462",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00462_MLO.jpg",
+      "bbox": [
+        1294,
+        3253,
+        519,
+        549
+      ],
+      "img_size": [
+        3408,
+        5976
+      ],
+      "confidence": 0.6328,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00742",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00742_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        3376,
+        6064
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00660",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00660_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        4072,
+        5896
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01412",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01412_CC.jpg",
+      "bbox": [
+        859,
+        2208,
+        225,
+        191
+      ],
+      "img_size": [
+        3632,
+        5984
+      ],
+      "confidence": 0.3707,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00653",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00653_MLO.jpg",
+      "bbox": [
+        1809,
+        2642,
+        405,
+        391
+      ],
+      "img_size": [
+        2641,
+        4996
+      ],
+      "confidence": 0.3842,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00779",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00779_MLO.jpg",
+      "bbox": [
+        1227,
+        2924,
+        397,
+        417
+      ],
+      "img_size": [
+        3824,
+        5816
+      ],
+      "confidence": 0.5489,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01573",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01573_CC.jpg",
+      "bbox": [
+        1590,
+        1889,
+        430,
+        455
+      ],
+      "img_size": [
+        2712,
+        4784
+      ],
+      "confidence": 0.2763,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00914",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00914_MLO.jpg",
+      "bbox": [
+        1991,
+        1806,
+        311,
+        265
+      ],
+      "img_size": [
+        4080,
+        5752
+      ],
+      "confidence": 0.4417,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01123",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01123_CC.jpg",
+      "bbox": [
+        358,
+        1696,
+        420,
+        431
+      ],
+      "img_size": [
+        2792,
+        4720
+      ],
+      "confidence": 0.2938,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00510",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00510_MLO.jpg",
+      "bbox": [
+        1522,
+        1094,
+        185,
+        171
+      ],
+      "img_size": [
+        4168,
+        5680
+      ],
+      "confidence": 0.2718,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00314",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00314_CC.jpg",
+      "bbox": [
+        1350,
+        2276,
+        697,
+        747
+      ],
+      "img_size": [
+        2752,
+        4640
+      ],
+      "confidence": 0.5532,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01661",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01661_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        2641,
+        5251
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01849",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01849_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        3968,
+        5688
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01532",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01532_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        3091,
+        6001
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00432",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00432_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        3864,
+        5712
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01207",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01207_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        3048,
+        4448
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00982",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00982_MLO.jpg",
+      "bbox": [
+        2003,
+        3048,
+        337,
+        391
+      ],
+      "img_size": [
+        3720,
+        5392
+      ],
+      "confidence": 0.2922,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01714",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01714_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        2746,
+        5326
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00018",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00018_CC.jpg",
+      "bbox": [
+        1866,
+        1408,
+        339,
+        239
+      ],
+      "img_size": [
+        2584,
+        4720
+      ],
+      "confidence": 0.2685,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01307",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01307_CC.jpg",
+      "bbox": [
+        1733,
+        2446,
+        450,
+        442
+      ],
+      "img_size": [
+        2696,
+        4704
+      ],
+      "confidence": 0.4133,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01611",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01611_MLO.jpg",
+      "bbox": [
+        607,
+        2892,
+        171,
+        155
+      ],
+      "img_size": [
+        3121,
+        5491
+      ],
+      "confidence": 0.2922,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00298",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00298_MLO.jpg",
+      "bbox": [
+        362,
+        3946,
+        238,
+        219
+      ],
+      "img_size": [
+        2920,
+        4528
+      ],
+      "confidence": 0.3082,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00732",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00732_MLO.jpg",
+      "bbox": [
+        1639,
+        2528,
+        416,
+        430
+      ],
+      "img_size": [
+        2776,
+        4728
+      ],
+      "confidence": 0.2633,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01032",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01032_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        2800,
+        4536
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00823",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00823_CC.jpg",
+      "bbox": [
+        339,
+        2066,
+        190,
+        149
+      ],
+      "img_size": [
+        1786,
+        5341
+      ],
+      "confidence": 0.3139,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00988",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00988_CC.jpg",
+      "bbox": [
+        1268,
+        2918,
+        203,
+        198
+      ],
+      "img_size": [
+        3316,
+        5386
+      ],
+      "confidence": 0.3781,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01498",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01498_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        2912,
+        4528
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00015",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00015_MLO.jpg",
+      "bbox": [
+        581,
+        2314,
+        262,
+        252
+      ],
+      "img_size": [
+        4000,
+        5552
+      ],
+      "confidence": 0.4735,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00891",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00891_MLO.jpg",
+      "bbox": [
+        1345,
+        1996,
+        305,
+        285
+      ],
+      "img_size": [
+        2512,
+        4696
+      ],
+      "confidence": 0.5093,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01749",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01749_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        2521,
+        5386
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00915",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00915_CC.jpg",
+      "bbox": [
+        1689,
+        2600,
+        287,
+        304
+      ],
+      "img_size": [
+        2641,
+        5251
+      ],
+      "confidence": 0.3869,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01277",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01277_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        3056,
+        4536
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00384",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00384_CC.jpg",
+      "bbox": [
+        1621,
+        2075,
+        390,
+        335
+      ],
+      "img_size": [
+        3061,
+        5296
+      ],
+      "confidence": 0.3521,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01297",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01297_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        2776,
+        4456
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00343",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00343_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        2920,
+        4280
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01506",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01506_CC.jpg",
+      "bbox": [
+        2142,
+        1764,
+        190,
+        184
+      ],
+      "img_size": [
+        2851,
+        5686
+      ],
+      "confidence": 0.3826,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00217",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00217_CC.jpg",
+      "bbox": [
+        737,
+        1494,
+        196,
+        192
+      ],
+      "img_size": [
+        3104,
+        4616
+      ],
+      "confidence": 0.2795,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00381",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00381_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        3661,
+        5386
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01452",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01452_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        2800,
+        4704
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01332",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01332_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        4120,
+        5752
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00988",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00988_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        3616,
+        5386
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00553",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00553_MLO.jpg",
+      "bbox": [
+        323,
+        1345,
+        215,
+        213
+      ],
+      "img_size": [
+        2760,
+        4752
+      ],
+      "confidence": 0.4037,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00427",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00427_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        2881,
+        5491
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01447",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01447_CC.jpg",
+      "bbox": [
+        380,
+        2213,
+        453,
+        431
+      ],
+      "img_size": [
+        3466,
+        5686
+      ],
+      "confidence": 0.6781,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00630",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00630_CC.jpg",
+      "bbox": [
+        574,
+        1639,
+        435,
+        402
+      ],
+      "img_size": [
+        3661,
+        5386
+      ],
+      "confidence": 0.5325,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01142",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01142_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        2912,
+        4544
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01165",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01165_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        2956,
+        5491
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01332",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01332_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        3960,
+        5688
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01981",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01981_MLO.jpg",
+      "bbox": [
+        1589,
+        2166,
+        307,
+        334
+      ],
+      "img_size": [
+        3391,
+        6286
+      ],
+      "confidence": 0.3819,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01389",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01389_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        2936,
+        4216
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00914",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00914_CC.jpg",
+      "bbox": [
+        995,
+        1724,
+        344,
+        385
+      ],
+      "img_size": [
+        4080,
+        5704
+      ],
+      "confidence": 0.384,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00560",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00560_MLO.jpg",
+      "bbox": [
+        1778,
+        3851,
+        242,
+        229
+      ],
+      "img_size": [
+        3984,
+        5648
+      ],
+      "confidence": 0.2822,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00499",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00499_CC.jpg",
+      "bbox": [
+        2472,
+        2086,
+        378,
+        318
+      ],
+      "img_size": [
+        3840,
+        5448
+      ],
+      "confidence": 0.3581,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00173",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00173_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        2848,
+        4464
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00902",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00902_CC.jpg",
+      "bbox": [
+        51,
+        3358,
+        436,
+        401
+      ],
+      "img_size": [
+        3576,
+        5960
+      ],
+      "confidence": 0.4471,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01749",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01749_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        2521,
+        5236
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01427",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01427_MLO.jpg",
+      "bbox": [
+        1541,
+        2263,
+        335,
+        349
+      ],
+      "img_size": [
+        2956,
+        5266
+      ],
+      "confidence": 0.5071,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01726",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01726_CC.jpg",
+      "bbox": [
+        1665,
+        2182,
+        323,
+        269
+      ],
+      "img_size": [
+        3288,
+        5872
+      ],
+      "confidence": 0.5512,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01600",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01600_MLO.jpg",
+      "bbox": [
+        1574,
+        1412,
+        404,
+        426
+      ],
+      "img_size": [
+        2936,
+        4648
+      ],
+      "confidence": 0.572,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00044",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00044_MLO.jpg",
+      "bbox": [
+        2030,
+        2318,
+        585,
+        512
+      ],
+      "img_size": [
+        2960,
+        4552
+      ],
+      "confidence": 0.3101,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01363",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01363_CC.jpg",
+      "bbox": [
+        1487,
+        3002,
+        377,
+        327
+      ],
+      "img_size": [
+        2086,
+        5281
+      ],
+      "confidence": 0.4101,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00451",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00451_CC.jpg",
+      "bbox": [
+        803,
+        3060,
+        287,
+        281
+      ],
+      "img_size": [
+        3976,
+        5464
+      ],
+      "confidence": 0.3036,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01486",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01486_CC.jpg",
+      "bbox": [
+        1294,
+        3077,
+        383,
+        367
+      ],
+      "img_size": [
+        2896,
+        5176
+      ],
+      "confidence": 0.4063,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01737",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01737_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        2736,
+        4776
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01726",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01726_MLO.jpg",
+      "bbox": [
+        1149,
+        2736,
+        273,
+        310
+      ],
+      "img_size": [
+        3416,
+        6032
+      ],
+      "confidence": 0.4263,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00559",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00559_CC.jpg",
+      "bbox": [
+        1517,
+        3070,
+        249,
+        245
+      ],
+      "img_size": [
+        4184,
+        5856
+      ],
+      "confidence": 0.301,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00465",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00465_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        3352,
+        5952
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00492",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00492_MLO.jpg",
+      "bbox": [
+        1443,
+        3046,
+        275,
+        271
+      ],
+      "img_size": [
+        3571,
+        6091
+      ],
+      "confidence": 0.2766,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00342",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00342_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        3672,
+        5600
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00779",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00779_CC.jpg",
+      "bbox": [
+        931,
+        1700,
+        395,
+        425
+      ],
+      "img_size": [
+        3720,
+        5816
+      ],
+      "confidence": 0.6481,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00891",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00891_CC.jpg",
+      "bbox": [
+        1625,
+        2154,
+        358,
+        323
+      ],
+      "img_size": [
+        2480,
+        4728
+      ],
+      "confidence": 0.3816,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01158",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01158_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        3361,
+        6406
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01714",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01714_CC.jpg",
+      "bbox": [
+        1594,
+        2486,
+        303,
+        282
+      ],
+      "img_size": [
+        2206,
+        4681
+      ],
+      "confidence": 0.468,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00242",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00242_MLO.jpg",
+      "bbox": [
+        1907,
+        1712,
+        291,
+        361
+      ],
+      "img_size": [
+        2848,
+        4584
+      ],
+      "confidence": 0.2573,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00969",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00969_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        4008,
+        5688
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01039",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01039_CC.jpg",
+      "bbox": [
+        1772,
+        2652,
+        287,
+        286
+      ],
+      "img_size": [
+        3696,
+        5872
+      ],
+      "confidence": 0.3366,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01816",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01816_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        2461,
+        4951
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01423",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01423_CC.jpg",
+      "bbox": [
+        2315,
+        2625,
+        256,
+        204
+      ],
+      "img_size": [
+        3226,
+        5281
+      ],
+      "confidence": 0.3956,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00116",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00116_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        2728,
+        3920
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00911",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00911_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        2288,
+        4680
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00517",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00517_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        3040,
+        4496
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00412",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00412_CC.jpg",
+      "bbox": [
+        2143,
+        1326,
+        514,
+        349
+      ],
+      "img_size": [
+        2840,
+        4416
+      ],
+      "confidence": 0.3807,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00753",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00753_MLO.jpg",
+      "bbox": [
+        2096,
+        3012,
+        307,
+        292
+      ],
+      "img_size": [
+        2736,
+        4704
+      ],
+      "confidence": 0.5413,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00764",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00764_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        3691,
+        6091
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01307",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01307_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        2672,
+        4712
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00303",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00303_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        2888,
+        4520
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00816",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00816_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        2206,
+        5491
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00732",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00732_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        2784,
+        4672
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00343",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00343_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        3104,
+        4504
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00915",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00915_MLO.jpg",
+      "bbox": [
+        1514,
+        2279,
+        291,
+        267
+      ],
+      "img_size": [
+        2806,
+        5386
+      ],
+      "confidence": 0.4964,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00851",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00851_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        3856,
+        6691
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00236",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00236_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        2568,
+        4712
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01351",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01351_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        2656,
+        4981
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00999",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00999_MLO.jpg",
+      "bbox": [
+        1252,
+        3506,
+        301,
+        248
+      ],
+      "img_size": [
+        3504,
+        6016
+      ],
+      "confidence": 0.3297,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01788",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01788_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        3600,
+        5904
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01841",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01841_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        2528,
+        4696
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01611",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01611_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        2746,
+        5491
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01108",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01108_CC.jpg",
+      "bbox": [
+        2613,
+        1368,
+        396,
+        343
+      ],
+      "img_size": [
+        3056,
+        4624
+      ],
+      "confidence": 0.3508,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00303",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00303_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        2976,
+        4552
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01426",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01426_CC.jpg",
+      "bbox": [
+        1650,
+        1440,
+        283,
+        293
+      ],
+      "img_size": [
+        2696,
+        4696
+      ],
+      "confidence": 0.438,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00778",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00778_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        3064,
+        4680
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01140",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01140_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        3352,
+        4824
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01277",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01277_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        3008,
+        4480
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01039",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01039_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        3880,
+        5896
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00238",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00238_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        2928,
+        4816
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01441",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01441_CC.jpg",
+      "bbox": [
+        561,
+        4459,
+        263,
+        235
+      ],
+      "img_size": [
+        3286,
+        6091
+      ],
+      "confidence": 0.3359,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01595",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01595_MLO.jpg",
+      "bbox": [
+        1390,
+        3915,
+        433,
+        379
+      ],
+      "img_size": [
+        3091,
+        5386
+      ],
+      "confidence": 0.5019,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00039",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00039_CC.jpg",
+      "bbox": [
+        1154,
+        3199,
+        371,
+        388
+      ],
+      "img_size": [
+        2704,
+        4688
+      ],
+      "confidence": 0.5168,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01034",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01034_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        4032,
+        5936
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01426",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01426_MLO.jpg",
+      "bbox": [
+        1556,
+        2998,
+        311,
+        280
+      ],
+      "img_size": [
+        2856,
+        4720
+      ],
+      "confidence": 0.4254,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00488",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00488_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        2600,
+        4680
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01302",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01302_CC.jpg",
+      "bbox": [
+        2060,
+        1597,
+        291,
+        273
+      ],
+      "img_size": [
+        2776,
+        4672
+      ],
+      "confidence": 0.4439,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00816",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00816_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        2041,
+        4801
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00510",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00510_CC.jpg",
+      "bbox": [
+        452,
+        832,
+        181,
+        178
+      ],
+      "img_size": [
+        4040,
+        5720
+      ],
+      "confidence": 0.2548,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01441",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01441_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        3436,
+        6076
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01788",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01788_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        3544,
+        5888
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00342",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00342_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        3712,
+        5728
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01716",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01716_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        3766,
+        5836
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00106",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00106_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        3920,
+        5744
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01712",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01712_CC.jpg",
+      "bbox": [
+        1890,
+        4196,
+        276,
+        293
+      ],
+      "img_size": [
+        3472,
+        5872
+      ],
+      "confidence": 0.4474,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01402",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01402_MLO.jpg",
+      "bbox": [
+        1175,
+        2944,
+        429,
+        343
+      ],
+      "img_size": [
+        3616,
+        6406
+      ],
+      "confidence": 0.3122,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00826",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00826_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        3736,
+        5341
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01115",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01115_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        2791,
+        5251
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01600",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01600_CC.jpg",
+      "bbox": [
+        2174,
+        1389,
+        392,
+        390
+      ],
+      "img_size": [
+        2664,
+        4736
+      ],
+      "confidence": 0.6643,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01158",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01158_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        3151,
+        5866
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00851",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00851_MLO.jpg",
+      "bbox": [
+        3463,
+        2854,
+        335,
+        292
+      ],
+      "img_size": [
+        4246,
+        6721
+      ],
+      "confidence": 0.3534,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01423",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01423_MLO.jpg",
+      "bbox": [
+        2615,
+        3953,
+        219,
+        200
+      ],
+      "img_size": [
+        3316,
+        5236
+      ],
+      "confidence": 0.3583,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01048",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01048_MLO.jpg",
+      "bbox": [
+        1789,
+        3736,
+        357,
+        286
+      ],
+      "img_size": [
+        2761,
+        5266
+      ],
+      "confidence": 0.4374,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01101",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01101_CC.jpg",
+      "bbox": [
+        2586,
+        2307,
+        400,
+        321
+      ],
+      "img_size": [
+        3646,
+        5491
+      ],
+      "confidence": 0.4049,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01778",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01778_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        4426,
+        6511
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00506",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00506_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        4096,
+        5464
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00559",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00559_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        4048,
+        5752
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00044",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00044_CC.jpg",
+      "bbox": [
+        2098,
+        3295,
+        439,
+        426
+      ],
+      "img_size": [
+        2888,
+        4504
+      ],
+      "confidence": 0.4906,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00061",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00061_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        3800,
+        5640
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00976",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00976_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        2686,
+        5386
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01433",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01433_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        2686,
+        5491
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00723",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00723_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        3192,
+        5920
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01595",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01595_CC.jpg",
+      "bbox": [
+        1473,
+        2621,
+        492,
+        425
+      ],
+      "img_size": [
+        3286,
+        5386
+      ],
+      "confidence": 0.5793,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01142",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01142_MLO.jpg",
+      "bbox": [
+        1375,
+        1691,
+        305,
+        238
+      ],
+      "img_size": [
+        2896,
+        4504
+      ],
+      "confidence": 0.2843,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01418",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01418_MLO.jpg",
+      "bbox": [
+        2396,
+        1972,
+        323,
+        303
+      ],
+      "img_size": [
+        2984,
+        4424
+      ],
+      "confidence": 0.4526,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01008",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01008_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        2944,
+        4712
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00554",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00554_CC.jpg",
+      "bbox": [
+        2222,
+        1770,
+        137,
+        139
+      ],
+      "img_size": [
+        3336,
+        5808
+      ],
+      "confidence": 0.2939,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00869",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00869_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        2936,
+        4544
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00387",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00387_CC.jpg",
+      "bbox": [
+        1793,
+        2636,
+        210,
+        216
+      ],
+      "img_size": [
+        3040,
+        4528
+      ],
+      "confidence": 0.4088,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01285",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01285_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        2791,
+        4906
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01262",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01262_MLO.jpg",
+      "bbox": [
+        3673,
+        1858,
+        401,
+        478
+      ],
+      "img_size": [
+        4088,
+        5864
+      ],
+      "confidence": 0.3122,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00001",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00001_CC.jpg",
+      "bbox": [
+        312,
+        2479,
+        313,
+        311
+      ],
+      "img_size": [
+        3024,
+        4808
+      ],
+      "confidence": 0.4719,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00826",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00826_CC.jpg",
+      "bbox": [
+        690,
+        3091,
+        279,
+        246
+      ],
+      "img_size": [
+        3556,
+        5311
+      ],
+      "confidence": 0.4336,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01697",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01697_CC.jpg",
+      "bbox": [
+        1624,
+        2658,
+        347,
+        350
+      ],
+      "img_size": [
+        3864,
+        5752
+      ],
+      "confidence": 0.4603,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00573",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00573_MLO.jpg",
+      "bbox": [
+        1658,
+        1966,
+        695,
+        651
+      ],
+      "img_size": [
+        2832,
+        4632
+      ],
+      "confidence": 0.4324,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01573",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01573_MLO.jpg",
+      "bbox": [
+        1758,
+        2898,
+        417,
+        394
+      ],
+      "img_size": [
+        2880,
+        4792
+      ],
+      "confidence": 0.3274,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00242",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00242_CC.jpg",
+      "bbox": [
+        1161,
+        2256,
+        321,
+        309
+      ],
+      "img_size": [
+        2760,
+        4600
+      ],
+      "confidence": 0.5094,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00584",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00584_MLO.jpg",
+      "bbox": [
+        380,
+        2733,
+        346,
+        296
+      ],
+      "img_size": [
+        2680,
+        4696
+      ],
+      "confidence": 0.2838,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01254",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01254_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        3000,
+        4584
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01262",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01262_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        4088,
+        5776
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01271",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01271_CC.jpg",
+      "bbox": [
+        144,
+        3661,
+        299,
+        367
+      ],
+      "img_size": [
+        3601,
+        6601
+      ],
+      "confidence": 0.2854,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00384",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00384_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        3436,
+        5296
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01853",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01853_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        3526,
+        5491
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01447",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01447_MLO.jpg",
+      "bbox": [
+        410,
+        3620,
+        425,
+        474
+      ],
+      "img_size": [
+        3526,
+        6046
+      ],
+      "confidence": 0.5844,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00116",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00116_MLO.jpg",
+      "bbox": [
+        1789,
+        1210,
+        389,
+        423
+      ],
+      "img_size": [
+        2600,
+        4144
+      ],
+      "confidence": 0.5322,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01866",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01866_CC.jpg",
+      "bbox": [
+        1580,
+        1553,
+        280,
+        258
+      ],
+      "img_size": [
+        3376,
+        5356
+      ],
+      "confidence": 0.2511,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00381",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00381_CC.jpg",
+      "bbox": [
+        1842,
+        1847,
+        205,
+        228
+      ],
+      "img_size": [
+        3196,
+        5311
+      ],
+      "confidence": 0.3378,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01516",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01516_CC.jpg",
+      "bbox": [
+        1373,
+        2956,
+        341,
+        344
+      ],
+      "img_size": [
+        2936,
+        4792
+      ],
+      "confidence": 0.6213,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00778",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00778_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        3064,
+        4656
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00987",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00987_MLO.jpg",
+      "bbox": [
+        482,
+        2532,
+        685,
+        783
+      ],
+      "img_size": [
+        2992,
+        4632
+      ],
+      "confidence": 0.2709,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00969",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00969_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        4080,
+        5608
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01297",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01297_CC.jpg",
+      "bbox": [
+        22,
+        616,
+        558,
+        580
+      ],
+      "img_size": [
+        2792,
+        4576
+      ],
+      "confidence": 0.3652,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01712",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01712_MLO.jpg",
+      "bbox": [
+        431,
+        761,
+        342,
+        396
+      ],
+      "img_size": [
+        3848,
+        5832
+      ],
+      "confidence": 0.5893,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00517",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00517_CC.jpg",
+      "bbox": [
+        645,
+        1594,
+        435,
+        425
+      ],
+      "img_size": [
+        3032,
+        4480
+      ],
+      "confidence": 0.2882,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01486",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01486_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        3211,
+        5281
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01578",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01578_MLO.jpg",
+      "bbox": [
+        2320,
+        3467,
+        310,
+        271
+      ],
+      "img_size": [
+        4891,
+        6541
+      ],
+      "confidence": 0.3473,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01475",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01475_CC.jpg",
+      "bbox": [
+        1066,
+        1128,
+        297,
+        292
+      ],
+      "img_size": [
+        3541,
+        5386
+      ],
+      "confidence": 0.3834,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00528",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00528_MLO.jpg",
+      "bbox": [
+        128,
+        1653,
+        236,
+        215
+      ],
+      "img_size": [
+        3888,
+        5400
+      ],
+      "confidence": 0.3217,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01797",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01797_CC.jpg",
+      "bbox": [
+        3146,
+        3439,
+        312,
+        238
+      ],
+      "img_size": [
+        4186,
+        6826
+      ],
+      "confidence": 0.255,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01539",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01539_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        2206,
+        5026
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01008",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01008_MLO.jpg",
+      "bbox": [
+        1937,
+        1300,
+        404,
+        474
+      ],
+      "img_size": [
+        2968,
+        4648
+      ],
+      "confidence": 0.3292,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00961",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00961_MLO.jpg",
+      "bbox": [
+        331,
+        2168,
+        373,
+        375
+      ],
+      "img_size": [
+        3464,
+        5968
+      ],
+      "confidence": 0.4533,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01115",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01115_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        2926,
+        5341
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01981",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01981_CC.jpg",
+      "bbox": [
+        1938,
+        1663,
+        429,
+        399
+      ],
+      "img_size": [
+        3001,
+        6001
+      ],
+      "confidence": 0.3484,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01285",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01285_MLO.jpg",
+      "bbox": [
+        2081,
+        3885,
+        256,
+        223
+      ],
+      "img_size": [
+        2986,
+        5266
+      ],
+      "confidence": 0.4015,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01365",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01365_CC.jpg",
+      "bbox": [
+        1996,
+        3902,
+        668,
+        665
+      ],
+      "img_size": [
+        3406,
+        6691
+      ],
+      "confidence": 0.4732,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01048",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01048_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        2566,
+        5296
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00273",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00273_CC.jpg",
+      "bbox": [
+        2970,
+        4548,
+        407,
+        380
+      ],
+      "img_size": [
+        3841,
+        6871
+      ],
+      "confidence": 0.5701,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01418",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01418_CC.jpg",
+      "bbox": [
+        2675,
+        1204,
+        301,
+        325
+      ],
+      "img_size": [
+        3056,
+        4464
+      ],
+      "confidence": 0.4714,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00106",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00106_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        4024,
+        5704
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00656",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00656_MLO.jpg",
+      "bbox": [
+        401,
+        3231,
+        375,
+        302
+      ],
+      "img_size": [
+        3811,
+        6871
+      ],
+      "confidence": 0.2599,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01572",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01572_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        4072,
+        5664
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00387",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00387_MLO.jpg",
+      "bbox": [
+        1847,
+        2868,
+        228,
+        198
+      ],
+      "img_size": [
+        3008,
+        4584
+      ],
+      "confidence": 0.2934,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01516",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01516_MLO.jpg",
+      "bbox": [
+        1285,
+        2969,
+        364,
+        331
+      ],
+      "img_size": [
+        3040,
+        4640
+      ],
+      "confidence": 0.5409,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01776",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01776_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        2664,
+        4736
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00375",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00375_CC.jpg",
+      "bbox": [
+        1891,
+        788,
+        318,
+        276
+      ],
+      "img_size": [
+        2440,
+        4728
+      ],
+      "confidence": 0.5597,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00128",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00128_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        3592,
+        6008
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01737",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01737_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        2656,
+        4744
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00753",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00753_CC.jpg",
+      "bbox": [
+        2229,
+        2310,
+        310,
+        313
+      ],
+      "img_size": [
+        2712,
+        4744
+      ],
+      "confidence": 0.5541,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00794",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00794_CC.jpg",
+      "bbox": [
+        1140,
+        1960,
+        364,
+        341
+      ],
+      "img_size": [
+        3526,
+        5341
+      ],
+      "confidence": 0.5863,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01097",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01097_MLO.jpg",
+      "bbox": [
+        167,
+        1578,
+        175,
+        165
+      ],
+      "img_size": [
+        2776,
+        4632
+      ],
+      "confidence": 0.4476,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00412",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00412_MLO.jpg",
+      "bbox": [
+        2095,
+        2730,
+        399,
+        328
+      ],
+      "img_size": [
+        2832,
+        4464
+      ],
+      "confidence": 0.3973,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01363",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01363_MLO.jpg",
+      "bbox": [
+        1668,
+        3678,
+        343,
+        292
+      ],
+      "img_size": [
+        2326,
+        5356
+      ],
+      "confidence": 0.6075,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00553",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00553_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        2544,
+        4728
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00920",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00920_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        3808,
+        5976
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00678",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00678_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        3436,
+        6736
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00027",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00027_CC.jpg",
+      "bbox": [
+        2082,
+        4307,
+        283,
+        234
+      ],
+      "img_size": [
+        3800,
+        5896
+      ],
+      "confidence": 0.2515,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01816",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_01816_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        2521,
+        5311
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00314",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00314_MLO.jpg",
+      "bbox": [
+        983,
+        2173,
+        715,
+        766
+      ],
+      "img_size": [
+        2736,
+        4680
+      ],
+      "confidence": 0.5742,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00375",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00375_MLO.jpg",
+      "bbox": [
+        1381,
+        1668,
+        354,
+        311
+      ],
+      "img_size": [
+        2504,
+        4704
+      ],
+      "confidence": 0.4738,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_01572",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_01572_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        3960,
+        5608
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00924",
+      "view": "CC",
+      "img_path": "/content/yolo_dataset/images/val/P_00924_CC.jpg",
+      "bbox": null,
+      "img_size": [
+        3104,
+        4600
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    },
+    {
+      "patient_id": "P_00444",
+      "view": "MLO",
+      "img_path": "/content/yolo_dataset/images/val/P_00444_MLO.jpg",
+      "bbox": null,
+      "img_size": [
+        2761,
+        5491
+      ],
+      "confidence": 0.0,
+      "source": "YOLOv8"
+    }
+  ]
+}
